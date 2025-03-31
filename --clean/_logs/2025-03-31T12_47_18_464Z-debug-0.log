@@ -1,0 +1,18 @@
+0 verbose cli /home/abel/.nvm/versions/node/v23.6.0/bin/node /home/abel/.nvm/versions/node/v23.6.0/bin/npm
+1 info using npm@10.9.2
+2 info using node@v23.6.0
+3 silly config load:file:/home/abel/.nvm/versions/node/v23.6.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/media/abel/D/All Works/kdame/kdame-mobile-app/.npmrc
+5 silly config load:file:/home/abel/.npmrc
+6 silly config load:file:/home/abel/.nvm/versions/node/v23.6.0/etc/npmrc
+7 verbose title npm
+8 verbose argv "--cache" "--clean" "--force"
+9 verbose logfile logs-max:10 dir:/media/abel/D/All Works/kdame/kdame-mobile-app/--clean/_logs/2025-03-31T12_47_18_464Z-
+10 verbose logfile /media/abel/D/All Works/kdame/kdame-mobile-app/--clean/_logs/2025-03-31T12_47_18_464Z-debug-0.log
+11 warn using --force Recommended protections disabled.
+12 verbose cwd /media/abel/D/All Works/kdame/kdame-mobile-app
+13 verbose os Linux 5.15.0-107-generic
+14 verbose node v23.6.0
+15 verbose npm  v10.9.2
+16 verbose exit 1
+17 verbose code 1
